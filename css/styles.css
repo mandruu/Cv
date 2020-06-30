@@ -1,0 +1,47 @@
+/*tag Selectors*/
+
+
+body{
+  background-color: #eeeeee;
+}
+h1{
+
+  color: #12cad6;
+}
+h3{
+  color: #12cad6;
+}
+hr{
+  width:5%;
+  border-top: 5px dotted #12cad6;
+  border-bottom:none;
+  border-left:none;
+  border-right:none;
+}
+
+/*class selectors*/
+.pie{
+  width:100%;
+  border-top: 5px dotted #12cad6;
+  border-bottom:none;
+  border-left:none;
+  border-right:none;
+}
+.ingeniero{
+  color: #12cad6;
+  font-style: oblique;
+}
+
+.fperfil{
+  border-radius: 100%;
+}
+/* Id Selectors
+
+#soccer{
+  color : green;
+}
+
+#movies{
+  color : green;
+}
+*/
